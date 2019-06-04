@@ -1,0 +1,12 @@
+#include <iostream.h>
+#include <math.h>
+
+Main;
+
+function {
+
+
+
+}
+
+End
